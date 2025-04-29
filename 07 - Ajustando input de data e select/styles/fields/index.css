@@ -18,7 +18,7 @@ label {
 
 input:focus, textarea:focus, select:focus {
   outline: .25rem solid var(--surface-secondary);
-  border: .125rem solid var(--stroke-hightlight);
+  border: .125rem solid var(--stroke-highlight);
   outline: .1px;
 }
 
